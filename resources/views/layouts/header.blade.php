@@ -1,7 +1,7 @@
 <head>
 
   <!-- Basic -->
-  <title>AppXoffer | Home</title>
+  <title>AppXoffer - Mobile App Tracking &amp; Attribution Analytics</title>
 
   <!-- Define Charset -->
   <meta charset="utf-8">

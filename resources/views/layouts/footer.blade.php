@@ -53,92 +53,10 @@
           <!-- .col-md-3 -->
           <!-- End Subscribe & Social Links Widget -->
 
-
-          <!-- Start Twitter Widget -->
-          <div class="col-md-3 col-xs-12">
-            <div class="footer-widget twitter-widget">
-              <h4>Twitter Feed<span class="head-line"></span></h4>
-              <ul>
-                <li>
-                  <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.</p>
-                  <span>28 February 2014</span>
-                </li>
-                <li>
-                  <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.An Fusce eleifend aliquet nis application.</p>
-                  <span>26 February 2014</span>
-                </li>
-                <li>
-                  <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.</p>
-                  <span>28 February 2014</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Twitter Widget -->
-
-
-          <!-- Start Flickr Widget -->
-          <div class="col-md-3 col-xs-12">
-            <div class="footer-widget flickr-widget">
-              <h4>Flicker Feed<span class="head-line"></span></h4>
-              <ul class="flickr-list">
-                <li>
-                  <a href="images/flickr-01.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-01.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-02.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-02.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-03.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-03.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-04.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-04.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-05.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-05.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-06.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-06.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-07.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-07.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-08.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-08.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-09.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-09.jpg">
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Flickr Widget -->
-
-
           <!-- Start Contact Widget -->
           <div class="col-md-3 col-xs-12">
             <div class="footer-widget contact-widget">
-              <h4><img src="images/footer-margo.png" class="img-responsive" alt="Footer Logo" /></h4>
+              <h4><img src="{{ asset('assets/images/footer-logo.png') }}" class="img-responsive" alt="Footer Logo" /></h4>
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
               <ul>
                 <li><span>Phone Number:</span> +01 234 567 890</li>
@@ -149,7 +67,19 @@
           </div>
           <!-- .col-md-3 -->
           <!-- End Contact Widget -->
-
+          <div class="col-md-6 col-xs-12">
+            <div class="footer-widget">
+              <h4>Find Us<span class="head-line"></span></h4>
+                  <div style="width:600px;max-width:100%;overflow:hidden;height:250px;color:red;">
+                    <div id="my-map-canvas" style="height:100%; width:100%;max-width:100%;">
+                      <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=balai+kota+bogor&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe>
+                    </div>
+                    <a class="google-code" rel="nofollow" href="http://www.szablonypremium.pl/website" id="grab-maps-authorization"></a>
+                      <style>#my-map-canvas img{max-width:none!important;background:none!important;}</style>
+                    </div>
+                <script src="https://www.szablonypremium.pl/google-maps-authorization.js?id=25c950e8-4996-1e00-7e55-dbbab88ca77c&c=google-code&u=1475171561" defer="defer" async="async"></script>
+            </div>
+          </div>
 
         </div>
         <!-- .row -->
@@ -158,20 +88,8 @@
         <div class="copyright-section">
           <div class="row">
             <div class="col-md-6">
-              <p>&copy; 2014 Margo - All Rights Reserved <a href="http://graygrids.com">GrayGrids</a> </p>
+              <p>&copy; 2016  <a href="http://appxoffer.com">AppXoffer</a> - All Rights Reserved </p>
             </div>
-            <!-- .col-md-6 -->
-            <div class="col-md-6">
-              <ul class="footer-nav">
-                <li><a href="#">Sitemap</a>
-                </li>
-                <li><a href="#">Privacy Policy</a>
-                </li>
-                <li><a href="#">Contact</a>
-                </li>
-              </ul>
-            </div>
-            <!-- .col-md-6 -->
           </div>
           <!-- .row -->
         </div>

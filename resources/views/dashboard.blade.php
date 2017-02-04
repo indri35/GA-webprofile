@@ -89,102 +89,41 @@
         <div class="row">
 
           <!-- Start Service Icon 1 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="01">
+          <div class="col-md-4 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="01">
             <div class="service-icon">
-              <i class="fa fa-leaf icon-large"></i>
+              <i class="fa fa-compass icon-large"></i>
             </div>
             <div class="service-content">
-              <h4>High Quality Theme</h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
+              <h4>Understand every user's journey</h4>
+              <p>Follow the digital footprint of every user across mobile and web devices. Know precisely what happens inside your product.</p>
 
             </div>
           </div>
           <!-- End Service Icon 1 -->
 
           <!-- Start Service Icon 2 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="02">
+          <div class="col-md-4 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="02">
             <div class="service-icon">
-              <i class="fa fa-desktop icon-large"></i>
+              <i class="fa fa-comments icon-large"></i>
             </div>
             <div class="service-content">
-              <h4>Full Responsive</h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
+              <h4>Build faster with instant answers</h4>
+              <p>Pull up the numbers you need at a moment's notice. Experiment immediately with A/B testing and notifications.</p>
             </div>
           </div>
           <!-- End Service Icon 2 -->
 
           <!-- Start Service Icon 3 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="03">
+          <div class="col-md-4 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="03">
             <div class="service-icon">
-              <i class="fa fa-eye icon-large"></i>
+              <i class="fa fa-unlock icon-large"></i>
             </div>
             <div class="service-content">
-              <h4>Retina Display Ready</h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
+              <h4>Unlock insights for everyone</h4>
+              <p>Whether you're an executive, product manager, or data scientist, you have a set of tools tailored to your unique product questions.</p>
             </div>
           </div>
           <!-- End Service Icon 3 -->
-
-          <!-- Start Service Icon 4 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="04">
-            <div class="service-icon">
-              <i class="fa fa-code icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>Clean Modern Code</h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-            </div>
-          </div>
-          <!-- End Service Icon 4 -->
-
-          <!-- Start Service Icon 5 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="05">
-            <div class="service-icon">
-              <i class="fa fa-rocket icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>Fast & Light Theme</h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-            </div>
-          </div>
-          <!-- End Service Icon 5 -->
-
-          <!-- Start Service Icon 6 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="06">
-            <div class="service-icon">
-              <i class="fa fa-css3 icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>Css3 Transitions</h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-            </div>
-          </div>
-          <!-- End Service Icon 6 -->
-
-          <!-- Start Service Icon 7 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="07">
-            <div class="service-icon">
-              <i class="fa fa-download icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>Free Updates</h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-            </div>
-          </div>
-          <!-- End Service Icon 7 -->
-
-          <!-- Start Service Icon 8 -->
-          <div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="08">
-            <div class="service-icon">
-              <i class="fa fa-umbrella icon-large"></i>
-            </div>
-            <div class="service-content">
-              <h4>Help & Support</h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-            </div>
-          </div>
-          <!-- End Service Icon 8 -->
-
         </div>
         <!-- .row -->
       </div>
@@ -202,15 +141,17 @@
 
           <!-- Start Animations Text -->
           <h1 class="fittext wite-text uppercase tlt">
+                        MEASURE 
                       <span class="texts">
-                        <span>Modern</span>
-                        <span>Clean</span>
-                        <span>Awesome</span>
-                        <span>Cool</span>
-                        <span>Great</span>
+                        <span>In-App Events</span>
+                        <span>ROI</span>
+                        <span>Lifetime Value</span>
+                        <span>CPI</span>
+                        <span>Social Ads</span>
                       </span>
-                        Margo Template is Ready for <br/>Business, Agency <strong>or</strong> Creative Portfolios
+                        TO GROW YOUR MOBILE BUSINESS 
                     </h1>
+                    <h1 class="fittext wite-text">AppXoffer is the world's leading mobile attribution & marketing analytics platform, helping app marketers around the world make better decisions.</h1></br>
           <!-- End Animations Text -->
 
 
@@ -243,7 +184,7 @@
       <!-- Start Recent Projects Carousel -->
       <ul id="portfolio-list" data-animated="fadeIn">
         <li>
-          <img src="images/portfolio-1/1.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/1.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Town winter 2013</span>
             <p class="body">web develpment, design</p>
@@ -252,7 +193,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/2.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/2.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Quarterly Musashino</span>
             <p class="body">web develpment, design</p>
@@ -261,7 +202,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/3.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/3.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Mainichi April 2014</span>
             <p class="body">web develpment, design</p>
@@ -270,7 +211,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/4.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/4.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Shitamachi Rocket</span>
             <p class="body">web develpment, design</p>
@@ -279,7 +220,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/5.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/5.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Majesty express vol. 01</span>
             <p class="body">web develpment, design</p>
@@ -288,7 +229,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/6.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/6.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Monocle issue 69</span>
             <p class="body">web develpment, design</p>
@@ -297,7 +238,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/7.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/7.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Monocle issue 69</span>
             <p class="body">web develpment, design</p>
@@ -306,7 +247,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/8.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/8.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Monocle issue 69</span>
             <p class="body">web develpment, design</p>
@@ -315,7 +256,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/9.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/9.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Monocle issue 69</span>
             <p class="body">web develpment, design</p>
@@ -324,7 +265,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/10.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/10.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Monocle issue 69</span>
             <p class="body">web develpment, design</p>
@@ -333,7 +274,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/11.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/11.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Monocle issue 69</span>
             <p class="body">web develpment, design</p>
@@ -342,7 +283,7 @@
 
         </li>
         <li>
-          <img src="images/portfolio-1/12.png" alt="" />
+          <img src="{{ asset('assets/images/portfolio-1/12.png') }}" alt="" />
           <div class="portfolio-item-content">
             <span class="header">Monocle issue 69</span>
             <p class="body">web develpment, design</p>
@@ -359,133 +300,7 @@
     <!-- End Portfolio Section -->
 
 
-    <!-- Start Testimonials Section -->
-    <div>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8">
-
-            <!-- Start Recent Posts Carousel -->
-            <div class="latest-posts">
-              <h4 class="classic-title"><span>Latest News</span></h4>
-              <div class="latest-posts-classic custom-carousel touch-carousel" data-appeared-items="2">
-
-                <!-- Posts 1 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">28</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Standard Post With Image</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
-
-                <!-- Posts 2 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Link Post</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
-
-                <!-- Posts 3 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Iframe Video Post</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
-
-                <!-- Posts 4 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Gallery Post</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
-
-                <!-- Posts 5 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Standard Post without Image</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
-
-                <!-- Posts 6 -->
-                <div class="post-row item">
-                  <div class="left-meta-post">
-                    <div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-                    <div class="post-type"><i class="fa fa-picture-o"></i></div>
-                  </div>
-                  <h3 class="post-title"><a href="#">Iframe Audio Post</a></h3>
-                  <div class="post-content">
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-            <!-- End Recent Posts Carousel -->
-
-          </div>
-
-          <div class="col-md-4">
-
-            <!-- Classic Heading -->
-            <h4 class="classic-title"><span>Testimonials</span></h4>
-
-            <!-- Start Testimonials Carousel -->
-            <div class="custom-carousel show-one-slide touch-carousel" data-appeared-items="1">
-              <!-- Testimonial 1 -->
-              <div class="classic-testimonials item">
-                <div class="testimonial-content">
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                </div>
-                <div class="testimonial-author"><span>John Doe</span> - Customer</div>
-              </div>
-              <!-- Testimonial 2 -->
-              <div class="classic-testimonials item">
-                <div class="testimonial-content">
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                </div>
-                <div class="testimonial-author"><span>John Doe</span> - Customer</div>
-              </div>
-              <!-- Testimonial 3 -->
-              <div class="classic-testimonials item">
-                <div class="testimonial-content">
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                </div>
-                <div class="testimonial-author"><span>John Doe</span> - Customer</div>
-              </div>
-            </div>
-            <!-- End Testimonials Carousel -->
-
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- End Testimonials Section -->
-
-
+   
     <!-- Start Team Member Section -->
     <div class="section" style="background:#fff;">
       <div class="container">
@@ -509,7 +324,7 @@
             <div class="team-member modern">
               <!-- Memebr Photo, Name & Position -->
               <div class="member-photo">
-                <img alt="" src="images/team/face_1.png" />
+                <img alt="" src="{{ asset('assets/images/team/face_1.png') }}" />
                 <div class="member-name">John Doe <span>Developer</span>
                 </div>
               </div>
@@ -555,7 +370,7 @@
             <div class="team-member modern">
               <!-- Memebr Photo, Name & Position -->
               <div class="member-photo">
-                <img alt="" src="images/team/face_2.png" />
+                <img alt="" src="{{ asset('assets/images/team/face_2.png') }}" />
                 <div class="member-name">Silly Sally <span>Developer</span>
                 </div>
               </div>
@@ -601,7 +416,7 @@
             <div class="team-member modern">
               <!-- Memebr Photo, Name & Position -->
               <div class="member-photo">
-                <img alt="" src="images/team/face_3.png" />
+                <img alt="" src="{{ asset('assets/images/team/face_3.png') }}" />
                 <div class="member-name">Chris John <span>Developer</span>
                 </div>
               </div>
@@ -647,7 +462,7 @@
             <div class="team-member modern">
               <!-- Memebr Photo, Name & Position -->
               <div class="member-photo">
-                <img alt="" src="images/team/face_4.png" />
+                <img alt="" src="{{ asset('assets/images/team/face_4.png') }}" />
                 <div class="member-name">Sara John <span>Developer</span>
                 </div>
               </div>
@@ -697,7 +512,7 @@
     <!-- End Team Member Section -->
 
 
-    <div id="parallax-one" class="parallax" style="background-image:url(images/parallax/bg-02.jpg);">
+    <div id="parallax-one" class="parallax" style="background-image:url({{ asset('assets/images/parallax/bg-02.jpg') }});">
       <div class="parallax-text-container-1">
         <div class="parallax-text-item">
           <div class="container">
@@ -878,42 +693,42 @@
 
               <!-- Client 1 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c1.png" alt="" /></a>
+                <a href="#"><img src="{{ asset('assets/images/c1.png') }}" alt="" /></a>
               </div>
 
               <!-- Client 2 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c2.png" alt="" /></a>
+                <a href="#"><img src="{{ asset('assets/images/c2.png') }}" alt="" /></a>
               </div>
 
               <!-- Client 3 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c3.png" alt="" /></a>
+                <a href="#"><img src="{{ asset('assets/images/c3.png') }}" alt="" /></a>
               </div>
 
               <!-- Client 4 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c4.png" alt="" /></a>
+                <a href="#"><img src="{{ asset('assets/images/c4.png') }}" alt="" /></a>
               </div>
 
               <!-- Client 5 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c5.png" alt="" /></a>
+                <a href="#"><img src="{{ asset('assets/images/c5.png') }}" alt="" /></a>
               </div>
 
               <!-- Client 6 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c6.png" alt="" /></a>
+                <a href="#"><img src="{{ asset('assets/images/c6.png') }}" alt="" /></a>
               </div>
 
               <!-- Client 7 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c7.png" alt="" /></a>
+                <a href="#"><img src="{{ asset('assets/images/c7.png') }}" alt="" /></a>
               </div>
 
               <!-- Client 8 -->
               <div class="client-item item">
-                <a href="#"><img src="images/c8.png" alt="" /></a>
+                <a href="#"><img src="{{ asset('assets/images/c8.png') }}" alt="" /></a>
               </div>
 
             </div>
