@@ -170,22 +170,22 @@
             <!-- Start Navigation List -->
             <ul class="nav navbar-nav navbar-right">
               <li>
-                <a class="active" href="index.html">Home</a>
+                <a class="active" href="{{ url('/') }}">Home</a>
               </li>
               <li>
-                <a href="about.html">Features</a>
+                <a href="{{ url('/features') }}">Features</a>
               </li>
               <li>
-                <a href="#">Company</a>
+                <a href="{{ url('/company') }}">Company</a>
               </li>
               <li>
-                <a href="portfolio-3.html">Partners</a>
+                <a href="{{ url('/patrners') }}">Partners</a>
               </li>
               <li>
-                <a href="blog.html">Contact</a>
+                <a href="{{ url('/contact') }}">Contact</a>
               </li>
               <li>
-                <a href="contact.html">Login</a>
+                <a href="#">Login</a>
               </li>
             </ul>
             <!-- End Navigation List -->
@@ -195,23 +195,23 @@
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
           <li>
-            <a class="active" href="index.html">Home</a>
-          </li>
-          <li>
-            <a href="about.html">Features</a>
-          </li>
-          <li>
-            <a href="#">Company</a>
-          </li>
-          <li>
-            <a href="portfolio-3.html">Partners</a>
-          </li>
-          <li>
-            <a href="blog.html">Contact</a>
-          </li>
-          <li>
-            <a href="contact.html">Login</a>
-          </li>
+                <a class="active" href="{{ url('/') }}">Home</a>
+              </li>
+              <li>
+                <a href="{{ url('/features') }}">Features</a>
+              </li>
+              <li>
+                <a href="{{ url('/company') }}">Company</a>
+              </li>
+              <li>
+                <a href="{{ url('/patrners') }}">Partners</a>
+              </li>
+              <li>
+                <a href="{{ url('/contact') }}">Contact</a>
+              </li>
+              <li>
+                <a href="#">Login</a>
+              </li>
         </ul>
         <!-- Mobile Menu End -->
 

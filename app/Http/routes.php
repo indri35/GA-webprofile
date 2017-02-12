@@ -13,17 +13,15 @@
 
 Route::get('/', 'HomeController@index');
 
-Route::get('/index', function () {
-    return view('admin');
-});
-
 Route::get('/home', 'HomeController@index');
 
-Route::get('/chart1', 'Chart1Controller@chart1');
+Route::get('/company', 'HomeController@company');
 
-Route::get('/admin', function () {
-	return view('dashboard');
-});
+Route::get('/features', 'HomeController@features');
 
-Route::auth();
+Route::get('/partners', 'HomeController@partners');
+
+Route::get('/contact', 'HomeController@contact');
+
+
 
